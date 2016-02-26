@@ -1,0 +1,935 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"de",
+				"deal_hands"
+			],
+			[
+				"num",
+				"num_card"
+			],
+			[
+				"nam",
+				"names"
+			],
+			[
+				"nu",
+				"num_hands"
+			],
+			[
+				"ran",
+				"range"
+			],
+			[
+				"a",
+				"add_card"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"c",
+				"cards"
+			],
+			[
+				"car",
+				"cards"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"s",
+				"suit_names"
+			],
+			[
+				"str",
+				"str_content"
+			],
+			[
+				"pu",
+				"put_in_pouch"
+			],
+			[
+				"ne",
+				"new_obj"
+			],
+			[
+				"po",
+				"pouch_contents"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"ti",
+				"time_to_int"
+			],
+			[
+				"m",
+				"minutes"
+			],
+			[
+				"tim",
+				"timex"
+			],
+			[
+				"pr",
+				"print_time"
+			],
+			[
+				"li",
+				"list_of_dir"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"ab",
+				"abs_path"
+			],
+			[
+				"o",
+				"ol	Tag"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"pro",
+				"profileadmin"
+			],
+			[
+				"T",
+				"TextField"
+			],
+			[
+				"cou",
+				"count_sort"
+			],
+			[
+				"w",
+				"word"
+			],
+			[
+				"file",
+				"file"
+			],
+			[
+				"res",
+				"resp_data"
+			],
+			[
+				"url",
+				"urllib"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"rea",
+				"read_from_dataB_dyna"
+			],
+			[
+				"wha",
+				"what_skill"
+			],
+			[
+				"le",
+				"learner"
+			],
+			[
+				"en",
+				"enter_dynamic_data"
+			],
+			[
+				"loc",
+				"local_api"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"js",
+				"json_obj"
+			],
+			[
+				"all",
+				"all_files"
+			],
+			[
+				"fil",
+				"files"
+			],
+			[
+				"fol",
+				"folder_check"
+			],
+			[
+				"i",
+				"initialValue"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"arr",
+				"InitArray"
+			],
+			[
+				"out",
+				"outputArray"
+			],
+			[
+				"time",
+				"time_to_int"
+			],
+			[
+				"ho",
+				"hour"
+			],
+			[
+				"sec",
+				"second"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"seco",
+				"second"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"cod",
+				"code_file"
+			],
+			[
+				"zi",
+				"zipcode"
+			],
+			[
+				"zip",
+				"zipcode_link"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"conn",
+				"connect"
+			],
+			[
+				"for",
+				"for_in"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"state",
+				"state_code"
+			],
+			[
+				"sta",
+				"state_code"
+			],
+			[
+				"lin",
+				"list_of_addlink"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"l",
+				"line"
+			],
+			[
+				"line",
+				"line2"
+			],
+			[
+				"fu",
+				"full_file_path"
+			],
+			[
+				"is",
+				"isfile"
+			],
+			[
+				"r",
+				"Rectangle"
+			],
+			[
+				"dis",
+				"distance_btw_points"
+			],
+			[
+				"p",
+				"point1"
+			],
+			[
+				"mu",
+				"music"
+			],
+			[
+				"music_",
+				"music_dir"
+			],
+			[
+				"music",
+				"music_path"
+			],
+			[
+				"f",
+				"f2"
+			],
+			[
+				"word",
+				"word_list"
+			],
+			[
+				"wo",
+				"word_list"
+			],
+			[
+				"wor",
+				"word_list"
+			],
+			[
+				"dic",
+				"dict_dict"
+			],
+			[
+				"em",
+				"emma_dict"
+			],
+			[
+				"emm",
+				"emma_list"
+			],
+			[
+				"di",
+				"dict_words"
+			],
+			[
+				"dict_",
+				"dict_emma"
+			],
+			[
+				"sh",
+				"shumaII"
+			],
+			[
+				"st",
+				"strip"
+			],
+			[
+				"co",
+				"covert_file_to_list"
+			],
+			[
+				"sort",
+				"sort_dict_file"
+			],
+			[
+				"th",
+				"theana_dict"
+			],
+			[
+				"PDFP",
+				"PDFPage"
+			],
+			[
+				"PDF",
+				"PDFDocument"
+			],
+			[
+				"ch",
+				"checker_baba"
+			],
+			[
+				"an",
+				"anoda_possible"
+			],
+			[
+				"p_",
+				"p_int"
+			],
+			[
+				"posi",
+				"p_position"
+			],
+			[
+				"pun",
+				"pun_engine"
+			],
+			[
+				"he",
+				"help_string"
+			],
+			[
+				"possi",
+				"possible_engine"
+			],
+			[
+				"ps",
+				"possible"
+			],
+			[
+				"so",
+				"sorter"
+			],
+			[
+				"let",
+				"letter2"
+			],
+			[
+				"lett",
+				"letter"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"check",
+				"check_anagram"
+			],
+			[
+				"chec",
+				"check_anagram"
+			],
+			[
+				"ro",
+				"rotate_pairs"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "django_mytweets/settings.py",
+			"settings":
+			{
+				"buffer_size": 3232,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 73.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dave/Documents/django_projects/virtual/django_mytweets/django_mytweets/settings.py",
+		"/C/Users/dave o/Desktop/ziplines/New folder/hello.py",
+		"/F/android_studio/Buttonclickapp/app/src/main/res/layout/activity_main.xml",
+		"/C/Users/dave o/Desktop/ziplines/bootstrap.css",
+		"/C/Users/dave o/Desktop/ziplines/home.html",
+		"/C/Users/dave o/Desktop/net222.py",
+		"/C/Users/dave o/Documents/magazines/PokerHand.py",
+		"/C/Users/dave o/first.py",
+		"/C/Users/dave o/Desktop/test.html",
+		"/C/Users/dave o/Documents/web/start/mysite/mysite/urls.py",
+		"/C/Users/dave o/Documents/web/start/mysite/views.py",
+		"/C/Users/dave o/Documents/python_os.py",
+		"/C/Users/dave o/Documents/ds.py",
+		"/C/Python27/Lib/site-packages/swampy/Gui.py",
+		"/C/Users/dave o/Documents/start.py",
+		"/C/Users/dave o/Documents/c_web test/index.html",
+		"/C/Users/dave o/Documents/dupli_test/New folder/test.css",
+		"/C/Users/dave o/Documents/duplicate_file.py",
+		"/C/Users/dave o/Documents/New folder/Engineer, IP & PS Core Network.txt",
+		"/C/Users/dave o/exercism/python/hello-world/hello_world_test.py",
+		"/C/Users/dave o/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/dave o/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/dave o/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/dave o/Desktop/windows.theme",
+		"/C/Users/dave o/Documents/testing.py",
+		"/C/Users/dave o/python/b.py",
+		"/C/Users/dave o/Documents/script_01.js",
+		"/C/Users/dave o/Documents/c_web test/InitArray.java",
+		"/C/Users/dave o/Documents/c_web test/test.js",
+		"/C/Users/dave o/Documents/secret.py",
+		"/C/Users/dave o/Documents/j/Fig713.java",
+		"/C/Users/dave o/Desktop/New folder/test.html",
+		"/C/Users/dave o/Desktop/New folder/new.html",
+		"/C/Users/dave o/Documents/ex14_6.py",
+		"/C/Users/dave o/Documents/c_web test/freecodecamp.html",
+		"/C/Users/dave o/Documents/test_class.py",
+		"/C/Users/dave o/Documents/ex13_1.py",
+		"/C/Users/dave o/Documents/db_test.py",
+		"/C/Users/dave o/Documents/WHOT/Whot.java",
+		"/C/Users/dave o/Documents/secret/AL.txt",
+		"/C/Users/dave o/Documents/page.txt",
+		"/C/Users/dave o/Documents/secret/35574.txt",
+		"/C/Users/dave o/Documents/secret/35005.txt",
+		"/C/Users/dave o/Documents/secret/35035.txt",
+		"/C/Users/dave o/Documents/secret/AK.txt",
+		"/C/Users/dave o/Documents/chap12_6.py",
+		"/C/Users/dave o/Documents/read_write.py",
+		"/C/Users/dave o/Documents/sed.py",
+		"/C/Users/dave o/Documents/script.js",
+		"/C/Users/dave o/Documents/stylessheet.css",
+		"/C/Users/dave o/Documents/encrypt.py",
+		"/C/Users/dave o/Documents/ex10.py",
+		"/C/Users/dave o/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/dave o/Desktop/aml.py",
+		"/C/Python27/wc.py",
+		"/C/Users/dave o/Documents/bisecthelp.py",
+		"/C/Users/dave o/Documents/pungame.py",
+		"/C/Users/dave o/Documents/markov.py",
+		"/C/Users/dave o/Documents/captions.db",
+		"/C/Users/dave o/Desktop/bootstrap.css",
+		"/C/Users/dave o/Documents/chapter12.py",
+		"/C/Users/dave o/Documents/mysite/manage.py",
+		"/C/Users/dave o/Documents/chapter13.py",
+		"/C/Users/dave o/Documents/chapter 12.py",
+		"/C/Users/dave o/python/start.py",
+		"/C/Users/dave o/python/test.py",
+		"/C/Users/dave o/python/tester.py",
+		"/C/Users/dave o/python/ex7_3.py",
+		"/C/Users/dave o/python/ex7_1.py",
+		"/C/Users/dave o/python/7.py",
+		"/C/Users/dave o/python/chap7.py",
+		"/C/Users/dave o/Documents/pronounce.py",
+		"/C/Users/dave o/Documents/codeaca.py",
+		"/C/Users/dave o/python/Test.java",
+		"/C/Users/dave o/rufus_20150228_112151.log",
+		"/C/Users/dave o/Documents/rotate_pairs.py",
+		"/C/Users/dave o/Documents/rotate.py",
+		"/C/Users/dave o/python/codeaca.py",
+		"/C/Users/dave o/Documents/ex11.py",
+		"/C/Users/dave o/Desktop/New folder/site.css",
+		"/C/Users/dave o/Documents/rotate_pair.py",
+		"/C/Users/dave o/Documents/deno.py",
+		"/C/Users/dave o/python/Account.java",
+		"/C/Users/dave o/python/UseAccount.java",
+		"/C/Users/dave o/Documents/flower.py",
+		"/C/Users/dave o/Documents/mysite/mysite/settings.py",
+		"/C/Users/dave o/Documents/mysite/polls/models.py",
+		"/C/Users/dave o/python/chapter6.py",
+		"/C/Users/dave o/python/python notes",
+		"/C/Users/dave o/python/mypolygon.py",
+		"/C/Users/dave o/Music/Billboard/2002/2002-018 P Diddy Featuring Ginuwine - I Need A Girl (Part 2).mp3",
+		"/C/Users/dave o/Documents/polygon.py",
+		"/C/Users/dave o/python/prime number",
+		"/C/Users/dave o/python/shaba.py",
+		"/C/Users/dave o/Videos/Cold.Mountain.2003.720p.Bluray.x264.anoXmous/Cold.Mountain.2003.720p.Bluray.x264.anoXmous_eng.srt",
+		"/C/Users/dave o/python/HowdyWindow.java",
+		"/C/Users/dave o/python/db.py",
+		"/C/Users/dave o/Videos/The Fault in Our Stars 2014 1080p BRRip x264 DTS-JYK/Subs/(eng)The Fault in Our Stars 2014 1080p BRRip x264 DTS-JYK.srt",
+		"/H/Media Get A/Cheetah - 2012 - DVDRip - MalayalaM - DivX - MP3 - 800MB - AVI - RockStar - Team QMR/Cheetah - 2012 - DVDRip - MalayalaM - DivX - MP3 - 800MB - AVI - RockStar - Team QMR.avi",
+		"/C/Users/dave o/Videos/The Blacklist Season 1 COMPLETE - 480p- HDTV - [itz_theo]/The Blacklist - 01x03 - Wujing - [itz_theo].srt",
+		"/C/Users/dave o/Videos/The Blacklist Season 1 COMPLETE - 480p- HDTV - [itz_theo]/The Blacklist - 01x18 - Milton Bobbit - [itz_theo].srt",
+		"/C/Users/dave o/Desktop/network baba.txt",
+		"/C/Users/dave o/Desktop/web",
+		"/C/Users/dave o/python/hidden.py",
+		"/C/Users/dave o/python/loop.py",
+		"/C/Users/dave o/python/wordcount.py",
+		"/C/Users/dave o/Videos/breaking bad/5/Breaking Bad S05 Season 5 Complete 480p HDTV x264 [Multi-Sub] [DexzAery]/Breaking Bad S05E03-Hazard Pay (2012 July 29).srt",
+		"/C/Users/dave o/Videos/breaking bad/5/Breaking Bad S05 Season 5 Complete 480p HDTV x264 [Multi-Sub] [DexzAery]/Breaking Bad S05E01-Live Free or Die (2012 July 15).srt",
+		"/C/Users/dave o/python/twitter1.py",
+		"/C/Users/dave o/python/google.py",
+		"/C/Users/dave o/python/ex13.py",
+		"/C/Users/dave o/python/ex13_3.py",
+		"/C/Users/dave o/python/ex12_4.py",
+		"/C/Users/dave o/python/ex12_2.py",
+		"/C/Users/dave o/Documents/code/code/grade.py",
+		"/C/Users/dave o/python/network.py",
+		"/C/Users/dave o/Documents/code/code/urlwords.py",
+		"/C/Users/dave o/Documents/code/code/urllib2.py",
+		"/C/Users/dave o/Documents/code/code/urllib1.py",
+		"/C/Users/dave o/python/ex12_2.py.py",
+		"/C/Users/dave o/Documents/code/code/socket2.py",
+		"/C/Users/dave o/python/BeautifulSoup.py",
+		"/C/Users/dave o/python/ex8_6.py",
+		"/C/Users/dave o/python/86.py",
+		"/C/Users/dave o/python/ex8_5.py",
+		"/C/Users/dave o/python/ex8_4.py",
+		"/C/Users/dave o/python/test.py.py",
+		"/C/Users/dave o/python/ex6_5.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"width",
+			"wi",
+			"adjust",
+			"wid",
+			"rino",
+			"Vlan888",
+			"ph8",
+			"IP access list HBC_SWITCH-QOS_SCAVANGER",
+			"HBC_SWITCH-QOS_SCAVANGER",
+			"popu",
+			"1581",
+			"<h1",
+			"<a href=\"",
+			"d",
+			"100"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "django_mytweets/settings.py",
+					"settings":
+					{
+						"buffer_size": 3232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3105,
+								3105
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/media/dave/Windows8_OS/Users/dave o/Documents/python_crash/python_crash.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
