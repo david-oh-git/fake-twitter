@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # 3rd party apps
     'bootstrap3',
+    # my apps 
+    'tweets',
 ]
 
 MIDDLEWARE_CLASSES = [
@@ -121,3 +123,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
 STATIC_URL = '/static/'
+
+# settings for django-bootstrap3
+BOOTSTRAP3 = {
+    'include_jquery': True,
+}

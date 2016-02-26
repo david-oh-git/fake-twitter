@@ -1,3 +1,4 @@
 django_env/
 untitled.sublime-project
 untitled.sublime-workspace
+*.pyc
