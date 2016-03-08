@@ -1,0 +1,20 @@
+{% extends "tweets/base.html" %}
+{% block head %}
+  <h3>{{ hashtag.name }}</h3>
+{% endblock %}
+
+
+
+{% block content %}
+	<div class="row clearfix">
+	  <div class="col-md-12 column">
+	    {% for tweet in tweets %}
+	      <div class="well">
+            <span>{{ tweet.text }}</span>
+          </div>
+        {% empty %}
+           <p>No tweets with {{ hashtag.name }} hashtag</p>
+        {% endfor %}
+</div>
+</div>
+{% endblock %}

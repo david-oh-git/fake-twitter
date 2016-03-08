@@ -1,7 +1,8 @@
 {% load bootstrap3 %}
-{% load staticfiles %}
+<!-- {% load staticfiles %} -->
 
 <!DOCTYPE html>
+<html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,7 +11,34 @@
 		{% bootstrap_javascript %}
 	</head>
 	<body>
-	  {% block content %}
-	    <h1 class="text-info"> Hello {{ name }}!</h1>
-	  {% endblock content %}
+		
+		<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+			<div class=container>
+				{% if user.is_authenticated %}
+				  <a class="navbar-brand" href="{% url 'tweets:index' %}">MyTweets</a>
+				  <p class="navbar-text navbar-right"><a href="{% url 'tweets:profile' user.username %}">{{ user }} </a>
+				  </p>
+				  <p class="navbar-text navbar-right"><a href="{% url 'user_profile:logout' %}">log out </a></p>
+				{% else %}
+				  <p class="navbar-text navbar-right"><a href="{% url 'user_profile:login' %}">log in </a></p>
+				  <p class="navbar-text navbar-right"><a href="{% url 'user_profile:register' %}">register </a></p>
+				{% endif %}
+			</div>
+		</nav>
+
+		
+		<div class="container">
+			<div class="row">
+				{% block head %}{% endblock head %}
+			</div>
+			<div class="row">
+	      	 {% block content %}
+	    
+	      	 {% endblock content %}
+	      	 </div>
+	    </div>
+	    <nav class="navbar navbar-inverse navbar-fixed-bottom" role"navigation">
+	    	<p class="navbar-text">Footer </p>
+	    </nav>
 	</body>
+</html>

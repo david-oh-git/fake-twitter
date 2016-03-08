@@ -1,0 +1,26 @@
+{% extends "tweets/base.html" %}
+{% load bootstrap3 %}
+
+{% block head %}
+  <h3>Login .... </h3>
+{% endblock head %}
+
+{% block content %}
+  
+  <div class="row clearfix">
+  	<div class="col-md-12 column">
+  		<form method="post" action="{% url 'user_profile:login' %}">
+  			{% csrf_token %}
+        
+
+  		  <div class="col-md-8 col-md-offset-2 fieldWrapper">
+  		    {{ form.as_p }}
+  		  	<button name='submit' class="btn btn-block btn-primary"> log in</button>
+  		  	<input type="hidden" name="next" value="{% url 'tweets:index' %}"/>
+  		  </div>
+  		    
+  		</form>
+  	</div>
+  </div>
+  
+{% endblock content %}

@@ -1,0 +1,37 @@
+{% extends "tweets/base.html" %}
+{% load bootstrap3 %}
+
+{% block head %}
+
+  <h3>Welcome {{ user }}</h3>
+{% endblock head %}
+
+{% block content %}
+  <div class="row clearfix">
+  	<div class="col-md-12 column">
+  		<form method="post" action="{% url 'tweets:profile' user %}">
+  			{% csrf_token %}
+        
+
+  		  <div class="col-md-8 col-md-offset-2 fieldWrapper">
+  		    {{ form.as_p }}
+  		  	<button name='submit' class="btn btn-primary"> tweet</button>
+  		  </div>
+  		    
+  		  <div>
+  		  	<!-- <input type="submit" value="post"/> -->
+  		  </div>
+  		</form>
+  	</div>
+  	<h3>&nbsp;</h3>
+  	<div class="col-md-8 col-md-offset-2 column">
+  	  {% for tweet in tweets %}
+  	    <div class="well">
+  	      <span>{{ tweet }}</span>
+  	    </div>
+  	  {% empty %}
+  	    <p>You have no tweets </p>
+  	  {% endfor %}
+  	</div>
+  </div>
+{% endblock content %}
